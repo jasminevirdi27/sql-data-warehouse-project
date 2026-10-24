@@ -4,13 +4,17 @@ Learning and building a modern data warehouse with SQL Server, including ETL pro
 📖 Project Overview:
 
 Design the architecture: a modern data warehouse with three layers, bronze, silver and gold.
+
 Build the ETL pipelines: load the source files and move the data through the layers.
+
 Model the data: facts and dimensions, ready for reports.
+
 Analyze it: answer business questions with SQL.
 
 
 🚀 Project Requirements
 Building the Data Warehouse (Data Engineering)
+
 Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
